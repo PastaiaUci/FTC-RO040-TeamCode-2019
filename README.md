@@ -1,8 +1,6 @@
 # FTC-TeamRO040-Robot-Code
 ## Description
 The code for FTC Team RO040 "SnakeTech", Rover Ruckus 2019 contest.<br>
-## The code
-The code was written entirely in Java, utilizing FTC's SDK, and can be found [here](https://github.com/TeodorSocea/FTC-TeamRO040-Robot-Code/tree/main/FTC-RoverRuckus2019/TeamCode/src/main/java).
 ## The robot
 Here is a clip of the autonomous part of the robot. It's the one on the bottom right corner!
 <br><br>
